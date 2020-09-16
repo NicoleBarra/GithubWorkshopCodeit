@@ -9,7 +9,7 @@ This repository contains the source code for a map of the hometowns of anyone wh
 3. Add your hometown to `locations.txt`.
 4. Commit your changes and make a pull request.
 5. Ask someone else to comment on your pull request.
-6. Wait for the workshop organizer to approve your pull request.
+6. Merge your pull request.
 7. Refresh the map!
 
 ## Technologies used in this project
@@ -36,13 +36,8 @@ Node library for geocoding and reverse geocoding.
 
 Embedded JavaScript templates
 
-## Try the application locally, if you want!
+## Try the application locally!
 
-### Google Maps API Key
-
-To use the Google Maps JavaScript API, you will ned an API Key. The [API key](https://developers.google.com/maps/documentation/javascript/get-api-key) is used to track API requests associated with your project for usage and billing. To learn more about API keys, see the API Key Best Practices and the FAQs.
-
-Read the [tutorial](docs/tutorial.md) and configure your [API Key](https://developers.google.com/maps/documentation/javascript/get-api-key)
 
 ## Adding a new location
 
@@ -56,7 +51,6 @@ Japan
 
 To add a new location, simply append a new line to the locations.txt file
 
-There is also a `locations.txt.example` file that can be used to test the app. Copy its content to locations.txt and restart the app.
 
 ## Running the application:
 
